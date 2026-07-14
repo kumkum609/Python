@@ -1,4 +1,4 @@
-#🎓 Student Management System
+##🎓 Student Management System
 A simple student management system built using python. This console based application allow user to manage student records through a menu driven interface.
 
 ## 🚀 Features 
