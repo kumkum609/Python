@@ -1,17 +1,17 @@
-##🎓 Student Management System
+# 🎓 Student Management System
 A simple student management system built using python. This console based application allow user to manage student records through a menu driven interface.
 
 ## 🚀 Features 
--👀 View Student details
--➕ Add new student
--🔍 Search student by Id
--✏ Update student information
--❌ Delete student record
+- 👀 View Student details
+- ➕ Add new student
+- 🔍 Search student by Id
+- ✏ Update student information
+- ❌ Delete student record
 
 ## Techologies used
 Python 3
 
-##Python concept used
+## Python concept used
 - Functions
 - Lists
 - Dictionaries
